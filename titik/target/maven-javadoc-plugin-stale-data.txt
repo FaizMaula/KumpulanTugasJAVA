@@ -1,0 +1,41 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'23'
+-sourcepath
+'C:/Users/fmaul/OneDrive/Documents/NetBeansProjects/titik/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/fmaul/OneDrive/Documents/NetBeansProjects/titik/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'titik 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'titik 1.0-SNAPSHOT API'
+com.mycompany.titik
+C:\Users\fmaul\OneDrive\Documents\NetBeansProjects\titik\src\main\java = 1728029098440
+C:\Users\fmaul\OneDrive\Documents\NetBeansProjects\titik\target\reports\apidocs\allclasses-index.html = 1728133932347
+C:\Users\fmaul\OneDrive\Documents\NetBeansProjects\titik\target\reports\apidocs\allpackages-index.html = 1728133932351
+C:\Users\fmaul\OneDrive\Documents\NetBeansProjects\titik\target\reports\apidocs\element-list = 1728133932291
+C:\Users\fmaul\OneDrive\Documents\NetBeansProjects\titik\target\reports\apidocs\help-doc.html = 1728133932385
+C:\Users\fmaul\OneDrive\Documents\NetBeansProjects\titik\target\reports\apidocs\index-all.html = 1728133932373
+C:\Users\fmaul\OneDrive\Documents\NetBeansProjects\titik\target\reports\apidocs\index.html = 1728133932380
+C:\Users\fmaul\OneDrive\Documents\NetBeansProjects\titik\target\reports\apidocs\member-search-index.js = 1728133932358
+C:\Users\fmaul\OneDrive\Documents\NetBeansProjects\titik\target\reports\apidocs\module-search-index.js = 1728133932354
+C:\Users\fmaul\OneDrive\Documents\NetBeansProjects\titik\target\reports\apidocs\overview-tree.html = 1728133932336
+C:\Users\fmaul\OneDrive\Documents\NetBeansProjects\titik\target\reports\apidocs\package-search-index.js = 1728133932355
+C:\Users\fmaul\OneDrive\Documents\NetBeansProjects\titik\target\reports\apidocs\search.html = 1728133932377
+C:\Users\fmaul\OneDrive\Documents\NetBeansProjects\titik\target\reports\apidocs\tag-search-index.js = 1728133932360
+C:\Users\fmaul\OneDrive\Documents\NetBeansProjects\titik\target\reports\apidocs\type-search-index.js = 1728133932357
